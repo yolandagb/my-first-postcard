@@ -9,7 +9,7 @@ top:50%; left:50%; transform: translate(-50%,-50%); padding:15px;}
 .postcard h1 {margin: 5px; padding-top: 20px;}
 .left-part {float:left; width: 50%;}
 .right-part {float:right; width: 50%; text-align: right;}
-.right-part input {display: inline-block;  }
+.right-part input {display: inline-block; border-top: none; border-left: none; border-right: none;  margin-top: 20px;}
 h1{ font-size: 35px;}
 .postcard-footer input[type="submit"]{ border:none; border-bottom:1px solid gray;}
 .postcard-body input [type="text"]{border:none; border-bottom:1px solid gray; width: 240px; margin-bottom: 10px; padding: 5px;}
